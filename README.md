@@ -1,4 +1,4 @@
-## Acessar a pagina
+## Acessar a página
 [Link para o projeto](https://hipnosm.github.io/calculadoraimc/)
 
 ### Descrição geral
